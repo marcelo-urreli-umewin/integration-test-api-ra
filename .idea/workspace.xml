@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9076f5e5-b19f-4bd5-b244-239398a3e2e1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/umewin/test/UserTestSuite.java" afterPath="$PROJECT_DIR$/src/test/java/com/umewin/test/UserTestSuite.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.umewin.test.UserTestSuite.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.umewin.test.UserTestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.umewin.test.UserTestSuite.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.umewin.test.UserTestSuite.txt" />
     </list>
     <ignored path="integration-test-api-ra.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="UserTestSuite.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/umewin/test/UserTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+            <state relative-caret-position="253">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -786,8 +787,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/umewin/test/UserTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+        <state relative-caret-position="253">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
